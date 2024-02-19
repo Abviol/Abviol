@@ -42,4 +42,4 @@
 
 #### Top Repositories
 
-   <div width="100%" align="center"><a href="https://github.com/Abviol/alcolator-app" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abviol&repo=alcolator-app&title_color=8555cb&text_color=444e59&icon_color=8555cb&bg_color=ffffff&&locale=en" /></a><a href="https://github.com/Abviol/melovi" align="right"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abviol&repo=melovi&title_color=8555cb&text_color=444e59&icon_color=8555cb&bg_color=ffffff&&locale=en" /></a></div>
+   <div width="100%" align="center"><a href="https://github.com/Abviol/alcolator-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abviol&repo=alcolator-app&title_color=8555cb&text_color=444e59&icon_color=8555cb&bg_color=ffffff&&locale=en" /></a><a href="https://github.com/Abviol/melovi" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abviol&repo=melovi&title_color=8555cb&text_color=444e59&icon_color=8555cb&bg_color=ffffff&&locale=en" /></a></div>
