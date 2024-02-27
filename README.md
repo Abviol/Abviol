@@ -10,7 +10,7 @@ I've been learning to code for 4 years. I learned core languages like C++, C#, a
 * 🌍  I'm based in Perugia, Italy
 * ✉️  You can contact me at [kyselovno@gmail.com](mailto:kyselovno@gmail.com)
 * 🚀  I'm currently working on [Alcolator - How Much Alcohol Should I Drink?](http://https://github.com/Abviol/alcolator-app)
-* 🧠  I'm learning Build and Speed Optimization tools
+* 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on original and helpful projects
 * ⚡  Continuous learning is the key to success
 
