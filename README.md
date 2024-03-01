@@ -37,8 +37,3 @@ I've been learning to code for 4 years. I learned core languages like C++, C#, a
 
 <a href="http://www.github.com/Abviol"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abviol&stroke=444e59&background=ffffff&ring=8555cb&fire=8555cb&currStreakNum=444e59&currStreakLabel=8555cb&sideNums=444e59&sideLabels=444e59&dates=444e59&" /></a>
 </space><a href="https://github.com/Abviol" align="left"><img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abviol&langs_count=10&title_color=8555cb&text_color=444e59&icon_color=8555cb&bg_color=ffffff&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
-
-
-#### Top Repositories
-
-<div width="100%" align="center"><a href="https://github.com/Abviol/alcolator-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abviol&repo=alcolator-app&title_color=8555cb&text_color=444e59&icon_color=8555cb&bg_color=ffffff&&locale=en" /></a><a href="https://github.com/Abviol/melovi" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Abviol&repo=melovi&title_color=8555cb&text_color=444e59&icon_color=8555cb&bg_color=ffffff&&locale=en" /></a></div>
