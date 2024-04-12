@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br>
-My name is Nazar Kyselov
+I'm Nazar Kyselov
 =====================================================================================================================================
 
-Frontend Developer
+Junior Frontend Developer
 ----------------------
 
-I've been learning to code for 4 years. I learned core languages like C++, C#, and PHP for the backend, but I figured out Frontend is the thing that drives me.
+I've been coding for 4 years. I tried many different languages, starting from core languages like C++ and C#, and finishing JS and PHP. After I developed my first [website](https://github.com/Abviol/itslibro), I knew that **Frontend is the thing that drives me**.
 
 * 🌍  I'm based in Perugia, Italy
 * ✉️  You can contact me at [kyselovno@gmail.com](mailto:kyselovno@gmail.com)
