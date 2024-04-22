@@ -8,10 +8,10 @@ Junior Frontend Developer
 I've been coding for 4 years. I tried many different languages, starting from core ones like C++ and C#, and finishing JS and PHP. After I developed my [first website](https://github.com/Abviol/itslibro), I knew that **Frontend is the thing that drives me**.
 
 * 🌍  I'm based in Perugia, Italy
+* 🤝  I'm open to work
 * ✉️  You can contact me at [kyselovno@gmail.com](mailto:kyselovno@gmail.com)
 * 🚀  I'm currently working on [Alcolator - How Much Alcohol Should I Drink?](http://https://github.com/Abviol/alcolator-app)
 * 🧠  I'm learning Node.js and Redux
-* 🤝  I'm open to collaborating on original and helpful projects
 * ⚡  Continuous learning is the key to success
 
 ### My Skills
