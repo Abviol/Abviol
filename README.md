@@ -10,7 +10,7 @@ I've been coding for 4 years. I tried many different languages, starting from co
 * 🌍  I'm based in Perugia, Italy
 * 🤝  I'm open to work
 * ✉️  You can contact me at [kyselovno@gmail.com](mailto:kyselovno@gmail.com)
-* 🚀  I'm currently working on [Alcolator - How Much Alcohol Should I Drink?](http://https://github.com/Abviol/alcolator-app)
+* 🚀  I'm currently working on Lanasys website
 * 🧠  I'm learning Node.js and Redux
 * ⚡  Continuous learning is the key to success
 
