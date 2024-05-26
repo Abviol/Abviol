@@ -11,7 +11,7 @@ I've been coding for 4 years. I tried many different languages, starting from co
 * 🤝  I'm open to work
 * ✉️  You can contact me at [kyselovno@gmail.com](mailto:kyselovno@gmail.com)
 * 🚀  I'm currently working on Lanasys website
-* 🧠  I'm learning Node.js and Redux
+* 🧠  I'm learning React unit-testing with Vitest
 * ⚡  Continuous learning is the key to success
 
 ### My Skills
