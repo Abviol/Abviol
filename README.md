@@ -5,7 +5,7 @@ I'm Nazar Kyselov
 Junior Frontend Developer
 ----------------------
 
-I've been coding for 4 years. I tried many different languages, starting from core ones like C++ and C#, and finishing JS and PHP. After I developed my [first website](https://github.com/Abviol/itslibro), I knew that **Frontend is the thing that drives me**.
+I've been coding for 4 years and have tried many different languages, starting from core ones like C++ and C#, and finishing JS and PHP. After I developed my [first website](https://github.com/Abviol/itslibro), I knew that **Frontend is the thing that drives me**.
 
 * 🌍  I'm based in Perugia, Italy
 * 🤝  I'm open to work
