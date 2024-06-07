@@ -10,7 +10,7 @@ I've been coding for 4 years and have tried many different languages, starting f
 * 🌍  I'm based in Perugia, Italy
 * 🤝  I'm open to work
 * ✉️  You can contact me at [kyselovno@gmail.com](mailto:kyselovno@gmail.com)
-* 🚀  I'm currently working on Lanasys website
+* 🚀  I'm currently working on [Lanasys website](https://lanasys.dev/)
 * 🧠  I'm learning React unit-testing with Vitest
 * ⚡  Continuous learning is the key to success
 
