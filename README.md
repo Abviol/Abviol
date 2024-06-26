@@ -35,4 +35,4 @@ I've been coding for 4 years and have tried many different languages, starting f
 
 #### GitHub Stats
 
-<a href="https://github.com/Abviol" align="left"><img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abviol&langs_count=10&title_color=8555cb&text_color=444e59&icon_color=8555cb&bg_color=ffffff&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
+<a href="https://github.com/Abviol" align="left"><img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abviol&langs_count=10&title_color=000000&text_color=444e59&icon_color=8555cb&bg_color=ffffff&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
