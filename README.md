@@ -40,14 +40,11 @@ I have been passionate about IT for over 5 years. My technical journey started w
 
 ### You can find me on
 
-<p align="left"> 
-<a href="https://www.linkedin.com/in/nazar-kyselov-97aa952b3/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> 
-<a href="http://www.instagram.com/kyselovno" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> 
-<a href="https://www.codepen.io/Abviol" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> 
-</p>
+<p align="left">
+<a href="https://www.linkedin.com/in/nazar-kyselov-97aa952b3/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></picture></a>
+<a href="http://www.instagram.com/kyselovno" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="undefined" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></picture></a>
+  <a href="https://www.codepen.io/Abviol" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></picture></a></p>
 
-### Activity
+### GitHub Stats
 
-#### GitHub Stats
-
-<a href="https://github.com/Abviol" align="left"><img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abviol&langs_count=10&title_color=000000&text_color=444e59&icon_color=8555cb&bg_color=ffffff&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" /></a>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Abviol&layout=compact&langs_count=6&theme=swift)](https://github-stats-extended.vercel.app/api/top-langs?username=Abviol&layout=compact&langs_count=6&theme=swift)
